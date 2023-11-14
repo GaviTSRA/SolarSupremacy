@@ -1,0 +1,11 @@
+
+- Dict `buildings` (save)
+	- id (any of [money, assembly, warp, turret, research])
+	- List
+		- Name
+		- Item
+		- Build Sound
+		- Build data when build
+		- Build cost base
+		- Build cost add with each
+		- List: Upgrade costs

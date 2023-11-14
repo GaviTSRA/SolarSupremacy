@@ -1,0 +1,11 @@
+- List  `planet-%var(id)`
+- Values:
+	- Owner
+	- ID
+	- Ship Count
+	- Building (any of [0, assembly, warp, money, turret, research])
+	- Building Data (any of [assembly progress (int), warp cooldown (int), money progress (int), turret shoot progress (int), research progress (int)])
+	- Building level
+- Saved in `planets` (Dict: location (`locString` from `locToString(loc)`) -> ID)
+- Found using `planetByID(id)` or `planetByLocation(loc)`
+- All planet locations are stored in `planetLocs`
