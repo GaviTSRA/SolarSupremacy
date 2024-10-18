@@ -1,0 +1,3 @@
+- Store planets (see [[Planet]])
+- Stored in `stars` (Dict, id -> loc)
+- Types stored in `generatedStarTypes`

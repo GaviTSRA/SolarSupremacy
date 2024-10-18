@@ -1,0 +1,11 @@
+- ship that is currently flying on the map
+- Values
+	- ID
+	- From (loc)
+	- To (loc)
+	- Progress (int 0-1)
+	- Owner
+	- Amount
+	- Skin
+	- Speed
+	- Speed modifier

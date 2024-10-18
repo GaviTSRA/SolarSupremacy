@@ -1,2 +1,0 @@
-- player block: `block-%name` (coop owner)
-- block count: `count-%name` (coop owner)

@@ -1,0 +1,42 @@
+- List  `planet-%var(id)`
+- Values:
+	- Owner
+	- ID
+	- Ship Count
+	- Building (any of [0, assembly, warp, money, turret, research, alert, sublightSupressor])
+	- Building Data (any of [assembly progress (int), warp cooldown (int), money progress (int), turret shoot progress (int), research progress (int)])
+	- Building level
+	- type
+	- star type
+- Saved in `planets` (Dict: location (`locString` from `locToString(loc)`) -> ID)
+- Found using `planetByID(id)` or `planetByLocation(loc)`
+- All planet locations are stored in `planetLocs`
+- Also stored in starPlanets (Dict: starId -> loc array)
+- Helper methods: `starPlanets(starId)` -> `planets` ; `nearbyPlanets(loc)` -> `planets`
+
+### Planet Types
+
+- Desert Planet
+	- Boosted: `none`
+	- Blocked: `none`
+	- Ship limit: `1x`
+- Gas Giant
+	- Mods: `money 1.5x`
+	- Blocked: `assembly`
+	- Ship limit: `1x`
+- Giant Planet
+	- Mods: `assembly 1.25x`
+	- Blocked: `warp | turret`
+	- Ship limit: `1.5x`
+- Helium Planet
+	- Mods: `research 1.5x | warp 2x`
+	- Blocked: `money`
+	- Ship limit: `1x`
+- Ice Giant
+	- Mods: `assembly 0.5x | turret 1.5x`
+	- Blocked: `money`
+	- Ship limit: `1.5x`
+- Dwarf Planet
+	- Mods: `turret 1.25x | assembly 0.5x`
+	- Blocked: `research`
+	- Ship limit: `0.5x`
