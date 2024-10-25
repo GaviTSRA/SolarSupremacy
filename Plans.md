@@ -12,19 +12,26 @@ kanban-plugin: basic
 - [ ] Sensor building #feature
 - [ ] Fortress building lvl 4 radius effect #feature
 - [ ] ### [Star stat view](https://discord.com/channels/972571857729486888/1294592416346669076) #QoL
-- [ ] 3rd skin #QoL
-- [ ] Reset voting #QoL
-- [ ] Info message #QoL
+- [ ] Info messages #QoL
+- [x] Compact planet displays #QoL
+- [ ] Balance research selling #balancing
+- [ ] Laser planet boost power #balancing
+- [ ] Radius tool double selects planets #bug
+- [ ] Warp gate charing segments #QoL
+- [ ] Auto research selling #feature
+- [ ] Reduce FTL Cost research #feature
 
 
 ## Future
 
 - [ ] building on stars #big-feature
-- [ ] meteors that destroy buildings #feature #unsure
+- [ ] Reset voting #QoL
 - [ ] Moons #feature #unsure
 - [ ] 3d map #big-feature
 - [ ] Research to go over level cap #feature
 - [ ] Remnants can generate impossible buildings #bug
+- [ ] 3rd skin #QoL
+- [ ] Better tutorial #feature
 
 
 ## Ingame suggestion
@@ -32,6 +39,7 @@ kanban-plugin: basic
 - [ ] Linked warp gate with less / no recharge time (Combat787) #feature
 - [ ] Turret toggle (Combat787) #QoL
 - [ ] Ship shield (Combat787) #feature
+- [ ] Team names (Combat787) #QoL
 
 
 ## Discord suggestions
@@ -56,6 +64,10 @@ kanban-plugin: basic
 - [ ] ### [Star bombs](https://discord.com/channels/972571857729486888/1292232643408035850) #feature
 - [ ] ### [Solar Flares](https://discord.com/channels/972571857729486888/1292230172761784420) #feature
 - [ ] ### [Better Resource Display](https://discord.com/channels/972571857729486888/1296232017620635759) #QoL
+- [ ] ### [Planet Types Tiers](https://discord.com/channels/972571857729486888/1296963188016943135) #feature
+- [ ] ### [Planetary Thrusters](https://discord.com/channels/972571857729486888/1296958659959591004) #feature
+- [ ] ### [Reduce FTL Movement cost](https://discord.com/channels/972571857729486888/1296925847487254548) #QoL
+- [ ] ### [Location sharing](https://discord.com/channels/972571857729486888/1297240405154205716) #QoL
 
 
 ## Alpha 5.1

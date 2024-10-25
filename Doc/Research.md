@@ -1,5 +1,5 @@
 
-# Implamentation
+# Implementation
 ## Stored
 - `researches`:s 
 	- dict player -> list(research)

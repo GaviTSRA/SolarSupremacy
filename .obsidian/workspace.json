@@ -118,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "c162ea32ae25164d",
@@ -217,17 +217,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62d810ab97c077ee",
+  "active": "a7c11666766bb91b",
   "lastOpenFiles": [
+    "Doc/Planet.md",
+    "Doc/Research.md",
+    "Plans.md",
     "TidesOfDiscovery.zip",
     "TidesofDiscovery.zip",
-    "Doc/Planet.md",
-    "Plans.md",
     "Name ideas.md",
     "Doc/Ship Task.md",
     "Doc/Stars.md",
     "Doc/Building.md",
-    "Doc/Research.md",
     "Doc/Other.md",
     "Doc/Money.md",
     "Doc/Coops.md",
