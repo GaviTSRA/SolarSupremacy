@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doc/Stars.md",
+                "file": "Doc/Building.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stars"
+              "title": "Building"
             }
           },
           {
@@ -219,15 +219,15 @@
   },
   "active": "a7c11666766bb91b",
   "lastOpenFiles": [
+    "Doc/Building.md",
+    "Doc/Stars.md",
     "Doc/Planet.md",
-    "Doc/Research.md",
     "Plans.md",
+    "Doc/Research.md",
     "TidesOfDiscovery.zip",
     "TidesofDiscovery.zip",
     "Name ideas.md",
     "Doc/Ship Task.md",
-    "Doc/Stars.md",
-    "Doc/Building.md",
     "Doc/Other.md",
     "Doc/Money.md",
     "Doc/Coops.md",

@@ -7,19 +7,22 @@ kanban-plugin: basic
 ## Alpha 6.0
 
 - [ ] 2d research tree #feature
-- [ ] Planet type terraforming #feature
 - [ ] Visibility only for own territory #feature
 - [ ] Sensor building #feature
-- [ ] Fortress building lvl 4 radius effect #feature
-- [ ] ### [Star stat view](https://discord.com/channels/972571857729486888/1294592416346669076) #QoL
-- [ ] Info messages #QoL
-- [x] Compact planet displays #QoL
-- [ ] Balance research selling #balancing
-- [ ] Laser planet boost power #balancing
-- [ ] Radius tool double selects planets #bug
-- [ ] Warp gate charing segments #QoL
-- [ ] Auto research selling #feature
 - [ ] Reduce FTL Cost research #feature
+- [x] Planet upgrade info #QoL
+- [x] Fortress building lvl 4 radius effect #feature
+- [x] Compact planet displays #QoL
+- [x] Balance research selling #balancing
+- [x] Laser planet boost power #balancing
+- [x] Warp gate charging segments #QoL
+
+
+## Alpha 6.1
+
+- [ ] Info messages #QoL
+- [ ] ### [Star stat view](https://discord.com/channels/972571857729486888/1294592416346669076) #QoL
+- [ ] Radius tool double selects planets #bug
 
 
 ## Future
@@ -28,10 +31,12 @@ kanban-plugin: basic
 - [ ] Reset voting #QoL
 - [ ] Moons #feature #unsure
 - [ ] 3d map #big-feature
+- [ ] Auto research selling #feature
 - [ ] Research to go over level cap #feature
 - [ ] Remnants can generate impossible buildings #bug
 - [ ] 3rd skin #QoL
 - [ ] Better tutorial #feature
+- [ ] Planet type terraforming #feature
 
 
 ## Ingame suggestion

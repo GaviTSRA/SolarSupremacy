@@ -11,3 +11,4 @@
 		- List: Upgrade costs
 		- Required Research (str or 0)
 		- max level
+		- Upgrade descriptions
